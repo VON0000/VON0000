@@ -1,4 +1,4 @@
-#### 你好! Hello! Bonjour!
+#### :zap:你好!:zap: Hello! :zap:Bonjour!  :zap:
 
  This is ZHANG Lu. :smile:
 
