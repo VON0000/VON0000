@@ -2,7 +2,7 @@
 
  This is ZHANG Lu. 😁
 
-I'm an undergraduate student majoring in  `Aerospace Propulsion Engineering`. 👩‍🎓
+I'm a student majoring in  `Aerospace Propulsion Engineering`. 👩‍🎓
 
 I'm studying at `Civil Aviation University of China`. ✈
 
