@@ -4,7 +4,7 @@
 
 I'm a student majoring in  `Aeronautical Engineering`. 🧑‍🎓
 
-I do software development in my free time. 🧑‍💻
+I do `software development` in my free time. 🧑‍💻
 
 I'm studying at `Civil Aviation University of China`. ✈
 
